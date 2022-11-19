@@ -5,8 +5,8 @@
 <h1>About Me</h1>
 
 <!-- + <a href="https://drive.google.com/file/d/1Dtf9v7psv53lvRaY4o1TfrKiKT9u8ex7/view?usp=sharing"> <b>Resume Link </a> -->
-+ I am a Third-Year Student at Walchand College of Engineering Sangli. 🏫
-+ I am currently learning Flutter 📱.
++ I am a Final Student at Walchand College of Engineering Sangli. 🏫
++ I have goo Knowledge in Flutter 📱 FRamework.
 + I do Competitive Programming as a regular practice. 💻
 
 

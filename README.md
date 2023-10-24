@@ -20,7 +20,8 @@
  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%23E34F26.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-
+  
+ <img alt="C++" src="https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-%2300599C?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/flutter-%2300599C?style=for-the-badge&logo=flutter&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-F05032?style=for-the-badge&logo=firebase&logoColor=white" />

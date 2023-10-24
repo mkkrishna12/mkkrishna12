@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Krushna Mali<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
-<h1 align="center">I am a Competitive Programmer, Android Developer</h1>
+<h1 align="center">I am a Full Stack Developer</h1>
 <br>
 <img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/source.gif" width="250">
 <h1>About Me</h1>
 
 <!-- + <a href="https://drive.google.com/file/d/1Dtf9v7psv53lvRaY4o1TfrKiKT9u8ex7/view?usp=sharing"> <b>Resume Link </a> -->
 + I am a Final Student at Walchand College of Engineering Sangli. 🏫
-+ I have goo Knowledge in Flutter 📱 FRamework.
++ I have good Knowledge in Flutter 📱 Framework.
 + I do Competitive Programming as a regular practice. 💻
 
 

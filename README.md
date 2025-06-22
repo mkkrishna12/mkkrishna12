@@ -64,18 +64,9 @@
 ![Gin](https://img.shields.io/badge/gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 <br>
-
-## 📊 GitHub Stats & Analytics
-
 <div align="center">
   
  
-  ### 🗣️ **Most Used Languages**
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkkrishna12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&hide=html,css,scss" alt="Top Languages" />
-  
-  ### 📊 **Weekly Development Breakdown**
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkkrishna12&theme=radical&hide_border=true&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&area_color=00ADD8" alt="Activity Graph" />
-  
   ### 🐍 **Contribution Snake**
   <img src="https://github.com/mkkrishna12/mkkrishna12/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
   

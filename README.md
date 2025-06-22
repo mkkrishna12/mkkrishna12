@@ -75,9 +75,7 @@
 ## 🏆 Recent Projects
 
 <div align="center">
-  <a href="https://github.com/mkkrishna12/Drushti">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkkrishna12&repo=Drushti&theme=radical&hide_border=true" />
-  </a>
+  
   <a href="https://github.com/sanketmote/OrganManagement">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanketmote&repo=OrganManagement&theme=radical&hide_border=true" />
   </a>

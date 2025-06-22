@@ -1,83 +1,153 @@
-<h1 align="center">Hi there, I'm Krushna Mali<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
-<h1 align="center">I am a Full Stack Developer</h1>
-<br>
-<img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/source.gif" width="250">
-<h1>About Me</h1>
+<h1 align="center">Hi there, I'm Krushna Mali 👨‍💻</h1>
+<h2 align="center">Full Stack Software Engineer | Go Developer | System Design Enthusiast</h2>
 
-<!-- + <a href="https://drive.google.com/file/d/1Dtf9v7psv53lvRaY4o1TfrKiKT9u8ex7/view?usp=sharing"> <b>Resume Link </a> -->
-+ I am a Graduated from Walchand College of Engineering Sangli. 🏫
-+ I have good Knowledge in Flutter 📱 Framework.
-+ I do Competitive Programming as a regular practice. 💻
-
-
-<br>
-<br>
-<h1>Technical Skills 🛠</h1>
-
-<p align="center"> 
-    <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
- <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%23E34F26.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  
- <img alt="Java" src="https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white"/>
- <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-%2300599C.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
- 
-  <img alt="Git" src="https://img.shields.io/badge/Git-%2300599C?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/flutter-%2300599C?style=for-the-badge&logo=flutter&logoColor=white" />
- <img alt="MongoDb" src="https://img.shields.io/badge/MongoDB-%2300599C.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-<br>
-  
-
-<h1>Recent Projects 👨‍💻 </h1>
-<br>
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mkkrishna12&repo=Drushti&show_icons=true&theme=jolly" style="width:400px; height:160px;"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanketmote&repo=OrganManagement&show_icons=true&theme=jolly" style="width:400px; height:160px;"> 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Passionate+about+clean+code;Building+scalable+systems;Always+learning+new+tech" alt="Typing SVG" />
 </div>
 
-
-<br>
 <br>
 
-<h1 align="left">Connect with me 💬</h1>
-<div align="left">
- <a href="https://www.linkedin.com/in/krushnamali/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mkkrishna12&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
+</div>
 
-<a href="https://www.instagram.com/mr__mk__12/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
-</a>
-<br>
-<br>
-<h1 align="left" >Programming Profiles 👨‍💻</h1>
-  
-<a href="https://codeforces.com/profile/mr__mk__12"><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt=Codeforces style="margin-bottom: 5px;"></a>
-<a href="https://leetcode.com/mr__mk__12/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt=Leetcode style="margin-bottom: 5px;"></a>
-<a href="https://www.codechef.com/users/mkkrish43"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"  alt=Codechef style="margin-bottom: 5px;"></a>
- <a href="https://www.hackerrank.com/mk__krishna__12"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"  alt=Hackerrank style="margin-bottom: 5px;"></a>
-<a href="https://www.hackerearth.com/@malikrushna333"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt=Hackerearth style="margin-bottom: 5px;"></a>
- <a href="https://atcoder.jp/users/mr__mk__12"><img src="https://img.shields.io/badge/Atcoder-%232C3454.svg?&style=for-the-badge&logo=atcoder&logoColor=Blue" alt=Atcoder style="margin-bottom: 5px;"></a>
-  
-<br>
 <br>
 
+## 🚀 About Me
 
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkkrishna12&amp&theme=jolly&title_color=blue" style="max-width:100%;">
+> *"Code is like humor. When you have to explain it, it's bad." - Cory House*
+
+- 🔭 **Currently**: Working as a Software Engineer in the software industry
+- 💼 **Experience**: 2+ years building robust, scalable applications
+- 🎯 **Focus**: Backend development, system design, and clean architecture
+- 🏫 **Education**: Graduated from Walchand College of Engineering, Sangli
+- 🌱 **Learning**: Always exploring new technologies and design patterns
+- 💡 **Passion**: Competitive programming and algorithmic problem solving
+
+### What I Do
+- **Backend Development**: Building RESTful APIs and microservices with Go
+- **Database Design**: Working with SQL databases and optimizing queries
+- **System Architecture**: Applying design patterns and system design principles
+- **Code Quality**: Writing clean, maintainable, and well-tested code
+- **Performance**: Optimizing applications for scalability and efficiency
+
 <br>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=mkkrishna12&theme=jolly" style="max-width:100%;">
-  <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkkrishna12&layout=compact&theme=jolly" style="max-width:100%;">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=mkkrishna12&amp;bg_color=FFFFFF&amp;color=000000&amp;line=000000&amp;point=00FF00" style="max-width:100%;">
-  
+## 🛠️ Tech Stack & Tools
+
+### **Languages & Frameworks**
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### **Databases & Cloud**
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### **Tools & Technologies**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+### **Web Technologies**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### **Frameworks & Libraries**
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Gin](https://img.shields.io/badge/gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mkkrishna12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkkrishna12&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkkrishna12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br>
+
+## 🏆 Recent Projects
+
+<div align="center">
+  <a href="https://github.com/mkkrishna12/Drushti">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mkkrishna12&repo=Drushti&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/sanketmote/OrganManagement">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanketmote&repo=OrganManagement&theme=radical&hide_border=true" />
+  </a>
+</div>
+
+<br>
+
+## 🎯 Competitive Programming Profiles
+
+<div align="center">
+  <a href="https://codeforces.com/profile/mr__mk__12">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/mr__mk__12/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/mkkrish43">
+    <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/mk__krishna__12">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+</div>
+
+<br>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=mkkrishna12&theme=radical&hide_border=true&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF" alt="Activity Graph" />
+</div>
+
+<br>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/krushnamali/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/mr__mk__12/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
   ![Snake animation](https://github.com/mkkrishna12/mkkrishna12/blob/output/github-contribution-grid-snake.svg)
-  
- <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=mkkrishna12&style=flat-square&color=d43182"/></a>
-  <a href="https://github.com/mkkrishna12">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mkkrishna12&style=flat-square&color=00ADD8" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐ Star this repository if you found it helpful!</sub>
 </div>

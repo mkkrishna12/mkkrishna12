@@ -65,18 +65,24 @@
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkkrishna12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
- 
+  
+  ### 📈 **My GitHub Statistics**
+  <img src="https://github-readme-stats.vercel.app/api?username=mkkrishna12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=mkkrishna12&theme=radical&hide_border=true&background=0D1117&currStreakNum=00ADD8&fire=00ADD8&sideNums=00ADD8" alt="GitHub Streak" width="49%" />
+  
+  ### 🗣️ **Most Used Languages**
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkkrishna12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&hide=html,css,scss" alt="Top Languages" />
+  
+  ### 📊 **Weekly Development Breakdown**
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkkrishna12&theme=radical&hide_border=true&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&area_color=00ADD8" alt="Activity Graph" />
+  
+  ### 🐍 **Contribution Snake**
+  <img src="https://github.com/mkkrishna12/mkkrishna12/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkkrishna12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<br>
 
 ## 🏆 Recent Projects
 
@@ -110,14 +116,6 @@
 
 <br>
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkkrishna12&theme=radical&hide_border=true&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF" alt="Activity Graph" />
-</div>
-
-<br>
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -130,14 +128,6 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/mkkrishna12/mkkrishna12/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 <br>

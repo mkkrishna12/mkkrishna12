@@ -69,7 +69,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mkkrishna12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=mkkrishna12&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+ 
 </div>
 
 <div align="center">

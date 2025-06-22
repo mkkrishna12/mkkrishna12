@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Krushna Mali 👨‍💻</h1>
-<h2 align="center">Full Stack Software Engineer | Go Developer | System Design Enthusiast</h2>
+<h2 align="center"> Backend Developer | System Design Enthusiast</h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Passionate+about+clean+code;Building+scalable+systems;Always+learning+new+tech" alt="Typing SVG" />
@@ -69,7 +69,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mkkrishna12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkkrishna12&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mkkrishna12&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -113,7 +113,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mkkrishna12&theme=radical&hide_border=true&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkkrishna12&theme=radical&hide_border=true&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF" alt="Activity Graph" />
 </div>
 
 <br>
@@ -137,7 +137,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  ![Snake animation](https://github.com/mkkrishna12/mkkrishna12/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/mkkrishna12/mkkrishna12/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 <br>
